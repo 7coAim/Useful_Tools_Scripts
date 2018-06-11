@@ -25,7 +25,7 @@ Google Chromeであれば、
 参考：https://chrome.google.com/webstore/detail/gettabinfo/iadhcoaabobddcebhmheikmbcjcigjhc  
 大人の事情でIEを利用せざるを得ないときにどうぞ！  
 
-  
+
 ## 02_downloadSecuritiesReport
 内容物
 * downloadProgram.py（実行プログラム）
@@ -41,7 +41,8 @@ Anaconda + Jupyter Notebookが手軽で便利でした。
 
 
 ### 背景
-案件の都合で、有価証券報告書（売上高、営業利益など）のデータについて、上場企業数分を必要になったが、金融庁のEDINET（https://www.fsa.go.jp/search/20130917.html）から手作業でダウンロードするわけにもいかないため、自動取得プログラムを作成しました。
+案件の都合で、有価証券報告書（売上高、営業利益など）のデータについて、上場企業数分を必要になったが、金融庁のEDINET（※）から手作業でダウンロードするわけにもいかないため、自動取得プログラムを作成しました。  
+※ https://www.fsa.go.jp/search/20130917.html  
 
 ### コメント
 さらに踏み込めば、売上高、営業利益など数値データも同時に抽出することも可能。  
