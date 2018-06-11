@@ -41,7 +41,7 @@ Anaconda + Jupyter Notebookが手軽で便利でした。
 
 
 ### 背景
-案件の都合で、有価証券報告書（売上高、営業利益など）のデータについて、上場企業数分を必要になったが、金融庁のEDINET（※）から手作業でダウンロードするわけにもいかないため、自動取得プログラムを作成しました。  
+案件の都合で、有価証券報告書（売上高、営業利益など）のデータについて、上場企業数分を必要になったが、金融庁のEDINET（※）から手作業でダウンロードするのはあまりにも非効率であるため、有報キャッチャー ウェブサービス（Atom API）を利用した自動取得プログラムを作成しました。  
 ※ https://www.fsa.go.jp/search/20130917.html  
 
 ### コメント
@@ -50,4 +50,4 @@ Anaconda + Jupyter Notebookが手軽で便利でした。
 EDINETのXBRL用のPythonライブラリを作った - Parser編 - Qiita  
 https://qiita.com/shoe116/items/dd362ad880f2b6baa96f  
 UFOキャッチャーからXBRLをダウンロード&パースするクラスを作った - Qiita  
-https://qiita.com/sawadybomb/items/67059635545cf0a11c8e  
+https://qiita.com/sawadybomb/items/67059635545cf0a11c8e
