@@ -1,6 +1,7 @@
 # README
 自作した便利ツールやスクリプトを配置しています。
 
+
 ## 01_getURL_IE
 内容物
 * getURL_IE.vbs
@@ -24,6 +25,7 @@ Google Chromeであれば、
 参考：https://chrome.google.com/webstore/detail/gettabinfo/iadhcoaabobddcebhmheikmbcjcigjhc  
 大人の事情でIEを利用せざるを得ないときにどうぞ！  
 
+  
 ## 02_downloadSecuritiesReport
 内容物
 * downloadProgram.py（実行プログラム）
